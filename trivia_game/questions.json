@@ -1,0 +1,83 @@
+{
+  "easy": [
+    {
+      "question": "What is the Hebrew translation of 'The dog is in the house'?",
+      "answers": ["הכלב נמצא בגינה", "הכלב נמצא בבית", "הכלב נמצא ברחוב", "הכלב נמצא במכונית"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'I have a red ball'?",
+      "answers": ["יש לי כדור כחול", "יש לי כדור ירוק", "יש לי כדור אדום", "יש לי כדור צהוב"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the Hebrew translation of 'She is my friend'?",
+      "answers": ["היא אחותי", "היא חברה שלי", "היא מורה שלי", "היא שכנה שלי"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'We like ice cream'?",
+      "answers": ["אנחנו אוהבים עוגה", "אנחנו אוהבים סוכריות", "אנחנו אוהבים גלידה", "אנחנו אוהבים פירות"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the Hebrew translation of 'It is raining outside'?",
+      "answers": ["יורד שלג בחוץ", "חם בחוץ", "יורד גשם בחוץ", "קר בחוץ"],
+      "correct_answer": 3
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the Hebrew translation of 'She is wearing a blue dress'?",
+      "answers": ["היא לובשת שמלה ירוקה", "היא לובשת שמלה כחולה", "היא לובשת שמלה אדומה", "היא לובשת שמלה צהובה"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'They are visiting their grandparents'?",
+      "answers": ["הם מבקרים את הדודים שלהם", "הם מבקרים את הסבים שלהם", "הם מבקרים את השכנים שלהם", "הם מבקרים את החברים שלהם"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'I am reading an interesting book'?",
+      "answers": ["אני קורא ספר ישן", "אני קורא ספר משעמם", "אני קורא ספר מעניין", "אני קורא ספר קצר"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the Hebrew translation of 'We are traveling to Jerusalem'?",
+      "answers": ["אנחנו נוסעים לחיפה", "אנחנו נוסעים לתל אביב", "אנחנו נוסעים לירושלים", "אנחנו נוסעים לאילת"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the Hebrew translation of 'He likes to play the guitar'?",
+      "answers": ["הוא אוהב לנגן בפסנתר", "הוא אוהב לנגן בתופים", "הוא אוהב לנגן בגיטרה", "הוא אוהב לנגן בכינור"],
+      "correct_answer": 3
+    }
+  ],
+  "hard": [
+    {
+      "question": "What is the Hebrew translation of 'She is studying at the university to become a doctor'?",
+      "answers": ["היא לומדת בבית הספר להיות אחות", "היא לומדת באוניברסיטה להיות עו״ד", "היא לומדת באוניברסיטה להיות רופאה", "היא לומדת בקולג' להיות מורה"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the Hebrew translation of 'They are planning a vacation to Italy next summer'?",
+      "answers": ["הם מתכננים חופשה ליוון בקיץ הבא", "הם מתכננים חופשה לאיטליה בקיץ הבא", "הם מתכננים חופשה לספרד בקיץ הבא", "הם מתכננים חופשה לצרפת בקיץ הבא"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'I enjoy reading historical novels in my free time'?",
+      "answers": ["אני נהנה לקרוא ספרי מדע בדיוני בזמני הפנוי", "אני נהנה לקרוא רומנים היסטוריים בזמני הפנוי", "אני נהנה לקרוא ספרי פנטזיה בזמני הפנוי", "אני נהנה לקרוא ספרי בלשים בזמני הפנוי"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'He is fixing his car in the garage because it broke down yesterday'?",
+      "answers": ["הוא מתקן את האופניים שלו במוסך כי הם נשברו אתמול", "הוא מתקן את המכונית שלו במוסך כי היא נשברה אתמול", "הוא מתקן את המחשב שלו במוסך כי הוא נשבר אתמול", "הוא מתקן את הטלפון שלו במוסך כי הוא נשבר אתמול"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Hebrew translation of 'We are looking for a new apartment in the city center'?",
+      "answers": ["אנחנו מחפשים בית חדש בפרברים", "אנחנו מחפשים דירה חדשה במרכז העיר", "אנחנו מחפשים משרד חדש במרכז העיר", "אנחנו מחפשים חנות חדשה במרכז העיר"],
+      "correct_answer": 2
+    }
+  ]
+}
